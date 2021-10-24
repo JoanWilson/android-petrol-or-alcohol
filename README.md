@@ -1,1 +1,2 @@
-"# android-petrol-or-alcohol" 
+# Aplicativo Álcool ou Etanol
+Este aplicativo é capaz de cálcular a melhor opção de abastecimento, tendo como premissa, se o resultado for inferior a 0,7, o derivado da cana-de-açúcar é o melhor para abastecer. Se for maior que 0,7, então a gasolina é melhor. Ademais, este projeto foi feito utilizando LinearLayout com ScrollView, funcionando tanto para Portrait Layout e Landscape Layout. O logo utilizando no aplicativo foi feito Jamilton Damasceno. Para testar o projeto, basta dar clone e gerar o apk no Android Studio ou emular em seu dispositivo.
